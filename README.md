@@ -31,7 +31,7 @@ By default, flask will run on port 5000.
 
 You should be able to view the homepage.
 
-<img src="api_index.png" width="100" height="100">
+<img src="api_index.png" width="500" height="200">
 
 Enter valid numerical values in all the input boxes and hit Predict.
 
