@@ -1,0 +1,63 @@
+{
+    "name": "learnt_programs",
+    "list": [
+        {
+            "query": "indication",
+            "program": [
+                {
+                    "list": [
+                        "affects_CafG",
+                        "marker_or_mechanism_GmD"
+                    ],
+                    "count": 1
+                },
+                {
+                    "list": [
+                        "affects_CafG",
+                        "associated_with_GawD"
+                    ],
+                    "count": 1
+                },
+                {
+                    "list": [
+                        "affects_CafG",
+                        "part_of_GpoPW",
+                        "associated_with_PWawD"
+                    ],
+                    "count": 1
+                },
+                {
+                    "list": [
+                        "affects_CafG",
+                        "part_of_GpoBP",
+                        "associated_with_BPawD"
+                    ],
+                    "count": 1
+                },
+                {
+                    "list": [
+                        "inhibits_CinG",
+                        "in_reaction_with_GrxC",
+                        "treats_CtD"
+                    ],
+                    "count": 1
+                },
+                {
+                    "list": [
+                        "inhibits_CinG",
+                        "part_of_GpoBP",
+                        "associated_with_BPawD"
+                    ],
+                    "count": 1
+                },
+                {
+                    "list": [
+                        "inhibits_CinG",
+                        "associated_with_GawD"
+                    ],
+                    "count": 1
+                }
+            ]
+        }
+    ]
+}
